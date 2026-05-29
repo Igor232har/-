@@ -1,0 +1,7 @@
+# Файл с секретами
+.env
+# Папка с виртуальным окружением Python
+mybotenv/
+# Файлы, специфичные для Windows
+Thumbs.db
+Desktop.ini
