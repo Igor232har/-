@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gsmbotproject",
+  "private_key_id": "8db6ffee881e9688d78b63c49d370db33b7624a5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC6CVB88jzm9//j\nBiZ0KeGb4qGIW4vtryAuUI/mHmXAcLSFAC+OKgMmPPIhSxiv7iQdAcI/maMC7OV3\nmkU1p5XBNfTONlbfJ6N7Lq6VZ5YjmEzH076jEXkwF9FJD3RdRbNLmqAOT0vRHEoj\njb+pNQlHXcwUImGKqOYeD3u2bq6LoUkxi5tRzbl+aHdXqnzM/WLSCksjfsiLFVfZ\nbwOuAZ/1tAzJ5UTC3O/ULqCiVhGCQOCPAWN73L1KlKkggqYeFcfDHD7WRksrBSS3\n436uXQUlwf4Ug6kFFs9UvsXj+ixDwbFG9LcEacnXD36vmHWArZSiS+IvOXvcWeCf\nmc2O8KK1AgMBAAECggEAK7haKc78+JPSV15f5Z9dFbc0WpkXIK/uKmxE8SH2LDxg\ndDxHsMuXS2J5zdC598iJxKZf6fX3jQ2y3MGM38/nXg2J33d+QXntjdq57UM3kdxu\nOOz+iZCm8CI8zUR8RppFiXBIiqxghz90ffgHUaL08AhvWFD/JujMEcb2PjizPP1u\niEkYydAVSzPuVEyp5emtCZRS7c6Xt2XObqKoEoRVfOS2yvjxKdFl4Ad4IA2oIUDh\nhxe6V3k+LHuZ54f/uAhkokUuMC5UfVRUYOA3e/0ghRJ+vMMD2UGcEaCIZoZk26Fa\ngFwnI9PnkvPzDhRv0xcFFqOww6Q2ZdHD3itczZnq2QKBgQDzZaA6ZZRPzZOQhMYy\nswMxPTZM3b9TZ/j8m8w0KVGRF+2G69Hz4Nd8zAyhJsJRciw8GKGZG+F+Pty3IMYl\nZR/eVJgfcbrB2oJ/mBt+p9u5rHDJVT9D4odr2NbO1J7JEdO9rXaDJ0O4SoPavMI2\nUFWlnrlM8iICHchFXG6o1PcdfQKBgQDDq1bUxZka6rED7JfE52arpTPbiAek8NJz\nqKCEfo1Cys6X/XgztCYsgPxvXJCo5ep4Ez1IAD2BYN2oPSmjtuB75cUiVTlRy8t/\naSWcSOXSSZevL1/6AUfKUTU9+G9qBqw3LdMhTVjfrskMYpMyhMdxuhJnX9sePhpN\neqOP/Et/mQKBgGNsqQYRxoLO1C+dvSSqsWwkuBCwKF6Ww0PVFJZeJn6hipqprAr2\nVrAY3jPaFFiWzfECkshrdjJO1XRNBAP0ig8U+Usm9wYHD3W1mc2kHgJ7qVrk4sIF\nQBJS8nRssCwshxUdTaMHoAchETmCD8eGC2ZrLwB6jF/W8J88wctfq041AoGAfUex\n88+EhPhpWDLexaLHWPUQa+n/wvqyNH1uMQb6GR7TAfu3P5uDqZD4j7C7qnhzFGh1\nHymQN8s2gKaQh5LqzklCXAYnChkq9Sv0ecku5OJbrT3u/JpfRcmTBlePtloJX9cG\nTFdCpQ07CqP+zSS4sjdJ20hDemyW2K7CFMmb6VkCgYApc61AKw9Mc3i54iPPWqcx\nibaR5qSF5OHoOhDcJETHdtJka9Ph/AmlLwJxI9D5qaWtcYHVUBTFGRYbAJSoiwol\n3H4ODxq7ZGPrX1byrj/46f8lnE5SuHlBNcIrVzygFQsrRoQuSmmM77IOk6jgOYVa\n8WUukGwJpzXtgs3IAVDc3w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "gsm-bot-access@gsmbotproject.iam.gserviceaccount.com",
+  "client_id": "110098082370187662856",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gsm-bot-access%40gsmbotproject.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
